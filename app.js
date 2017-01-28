@@ -35,6 +35,7 @@ function ShoppingListCheckOffService() {
     { name: "milk", quantity: 3 },
     { name: "yogurt", quantity: 5 },
     { name: "bread", quantity: 3 },
+    { name: "bier", quantity: 3 },
     { name: "spaghety", quantity: 2 }
   ];
 
